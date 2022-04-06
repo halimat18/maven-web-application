@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.221.54.225:8081/repository/halimatrelease/</url>
+	      <url>http://54.236.229.195:8081/repository/halirelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.221.54.225:8081/repository/halimatsnapshot/</url>
+	      <url>http://54.236.229.195:8081/repository/halisnapshot//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
