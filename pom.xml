@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.234.7.247:8081/repository/bollyrelease/</url>
+	      <url>http://54.234.7.247:8081/repository/thursdayrelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.234.7.247:8081/repository/bollysnapshot/</url>
+	      <url>http://54.234.7.247:8081/repository/thursdaysnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
